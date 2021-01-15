@@ -3,12 +3,7 @@
 You can use the [editor on GitHub](https://github.com/ezmoneyandtricks/EzMoneyTM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<script type="text/javascript">
-    var adfly_id = 21246247;
-    var popunder_frequency_delay = 0;
-    var adfly_google_compliant = false;
-</script>
-<script src="https://cdn.adf.ly/js/display.js"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
